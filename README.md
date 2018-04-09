@@ -2,9 +2,15 @@
 
 All materials licensed under CC-0
 
-# Working Versions
+# Path to Conformance
 
-Edits or new suggested content needed for version 1.1. Targeting final release for March 6-8 summit.
+Edits or new suggested content needed for the following content. Please contribute in an issue or submit content with a pull request.
+
+## Level 1: Need to Understand Importance of OSS Compliance
+
+* Open for new content
+
+## Level 2: Need to Understand Benefits of OpenChain
 
 1. OpenChain Handout content - https://docs.google.com/document/d/1tcXITiwFbUqK9JTEwz_JLJhtG9GRPyQa4cLdSULKn0I/edit?usp=sharing
 
@@ -14,3 +20,10 @@ Edits or new suggested content needed for version 1.1. Targeting final release f
 
 4. OpenChain summary for managers - https://docs.google.com/document/d/1QdX-bC0H6RDN5Mf4LqnX5K_fr8vaTweC-FOT4x32QPE/edit?usp=sharing
 
+## Level 3: Need to Understand OpenChain Requirements
+
+* Open for new content
+
+## Level 4: Working to Implement OpenChain Processes
+
+* Open for new content
