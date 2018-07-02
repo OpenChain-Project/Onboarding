@@ -18,6 +18,8 @@ Edits or new suggested content needed for the following content. Please contribu
 
 3. OpenChain summary for managers - https://docs.google.com/document/d/1QdX-bC0H6RDN5Mf4LqnX5K_fr8vaTweC-FOT4x32QPE/edit?usp=sharing
 
+4. (NEW) Audience-specific handouts - https://docs.google.com/document/d/1PVONJm-XdPIvJl1fAMHZOrhWRqwUmr9PFlqLfKXK2Mg/edit?usp=sharing
+
 ## Level 3: Need support to understand how to do it
 
 1. The OpenChain Curriculum - https://www.openchainproject.org/curriculum
